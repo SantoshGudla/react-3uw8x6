@@ -13,7 +13,7 @@ class Example1Component extends React.Component {
         <br />
         <br />
         <label>Last Name: </label>
-        <input type="text" i="sndname" />
+        <input type="text" id="sndname" />
         <br />
         <button onClick={this.submit}>Submit</button>
       </div>
